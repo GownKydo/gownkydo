@@ -5,7 +5,7 @@
 
 Hola!, Soy Gerardo Hernandez Gomez
 
-Soy estudiante de Ingeneria en Redes, apasionado por la tecnología y el desarrollo de software. Actualmente, estoy enfocado en aprender y mejorar mis habilidades en desarrollo de softaware, optimizacion de procesos y ciberseguridad. Me entusiasma resolver problemas y crear soluciones innovadoras mientras avanzo en mi formación académica.
+Soy estudiante de Ingeneria en Redes, apasionado por la tecnología y el desarrollo de software. Actualmente, estoy enfocado en aprender y mejorar mis habilidades en desarrollo de softaware y ciberseguridad. Me entusiasma resolver problemas y crear soluciones innovadoras mientras avanzo en mi formación académica.
 
 <br>
 
