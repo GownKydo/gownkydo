@@ -20,6 +20,6 @@ Soy estudiante de Ingeneria en Redes, apasionado por la tecnología y el desarro
 
 * E-mail: [gerardohgomez0112@gmail.com](gerardohgomez0112@gmail.com)
 * LinkedIn: [Gerardo H. Gomez](https://www.linkedin.com/in/gerardohgomez)
-* Twitter/X: [CornierGown](https://twitter.com/CornierGown)
+* Twitter/X: [CornierGown](https://twitter.com/GownKydo)
 
 ¡No dudes en ponerte en contacto conmigo para colaborar en proyectos interesantes o simplemente para conversar sobre tecnología!
