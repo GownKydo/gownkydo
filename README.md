@@ -18,7 +18,7 @@ Soy estudiante de Ingeneria en Redes, apasionado por la tecnología y el desarro
 
 ## Contacto
 
-* E-mail: [gerardohgomez0112@gmail.com](gerardohgomez0112@gmail.com)
+* Telegram: [GownKydo](https://t.me/gownkydo)
 * LinkedIn: [Gerardo H. Gomez](https://www.linkedin.com/in/gerardohgomez)
 * Twitter/X: [GownKydo](https://twitter.com/GownKydo)
 
