@@ -5,7 +5,7 @@
 
 Hola!, Soy Gerardo Hernandez Gomez
 
-Soy un apasionado del desarrollo de software con enfoque en ciberseguridad. Actualmente, estoy dedicado a aprender y mejorar mis habilidades, mientras busco crear soluciones innovadoras. Me emociona avanzar constantemente en mi aprendizaje y enfrentar nuevos desafíos en este campo.
+Me gusta crear herramientas con un enfoque en ciberseguridad o para realizar tareas. Actualmente estoy enfocado en aprender y mejorar mis habilidades, mientras busco crear aportes a la comunidad. Me emociona avanzar en mi aprendizaje y enfrentar nuevas problematicas, hasta el punto de tener que soñar con la solucion del codigo.
 
 <br>
 
@@ -22,4 +22,4 @@ Soy un apasionado del desarrollo de software con enfoque en ciberseguridad. Actu
 * LinkedIn: [Gerardo H. Gomez](https://www.linkedin.com/in/gerardohgomez)
 * Twitter/X: [GownKydo](https://twitter.com/GownKydo)
 
-¡No dudes en ponerte en contacto conmigo para colaborar en proyectos interesantes o simplemente para conversar sobre tecnología!
+¡No dudes en ponerte en contacto conmigo para colaborar en algun proyecto interesantes!
