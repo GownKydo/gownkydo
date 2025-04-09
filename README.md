@@ -5,7 +5,7 @@
 
 Hola!, Soy Gerardo Hernandez Gomez
 
-Me gusta crear herramientas con un enfoque en ciberseguridad o para realizar tareas. Actualmente estoy enfocado en aprender y mejorar mis habilidades, mientras busco crear aportes a la comunidad. Me emociona avanzar en mi aprendizaje y enfrentar nuevas problematicas, hasta el punto de tener que soñar con la solucion del codigo.
+Me gusta estar constantemente aprendiendo acerca de ciberseguridad y crear herramientas para automatizar actividades repetitivas, mientras busco crear aportes a la comunidad. Me emociona avanzar en mi aprendizaje y enfrentar nuevas problematicas-
 
 <br>
 
